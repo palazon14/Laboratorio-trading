@@ -1,0 +1,2 @@
+case_id,fecha,simbolo,decision,precio_entrada_sim,comision_sim,deslizamiento_sim,salida_sim,resultado_sim,notas
+AAPL_2026-10-01_1000ET,2026-10-01,AAPL,ESPERAR,,,,,,sin operacion; caso retrospectivo con contaminacion reconocida
